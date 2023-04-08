@@ -21,4 +21,5 @@ def function(one, two, three):
 if __name__ == "__main__":
     dic = {"hello world we are here and you are there": "We are also here as well and you are not there", "hello me too i'm here": "yes we are here"}
     dic_ = {"hello world we are here and you are there": "We are also here as well and you are not there", "hello me too i'm here": "yes we are here"}
+    dic_ = {"hello world we are here and you are there": "We are also here as well and you are not there", "hello me too i'm here": "yes we are here"}
     function(1, 0, 0)
